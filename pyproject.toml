@@ -1,0 +1,8 @@
+[project]
+name = "doc-style-kit"
+version = "1.0.2"
+description = "Lightweight document style enforcement"
+requires-python = ">=3.8"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
