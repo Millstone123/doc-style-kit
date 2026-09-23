@@ -1,1 +1,1 @@
-from .profile import resolve_profile, apply_style
+from .profile import resolve_profile, apply_profile
